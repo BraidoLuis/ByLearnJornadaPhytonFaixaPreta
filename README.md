@@ -14,3 +14,6 @@ if nome == 'Dayanne' or nome == 'Luís Felipe' or nome == 'Luís Fernando' or no
     print('Calma aí,é vc msm??')
 else:
   print('Parece que eu acabei confundindo você,me desculpe')
+  
+  
+  
